@@ -1,0 +1,2 @@
+## SignManager
+Manage sign properties

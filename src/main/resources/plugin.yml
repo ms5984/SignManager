@@ -1,0 +1,6 @@
+name: SignManager
+version: ${project.version}
+main: com.github.ms5984.survivelist.signmanager.SignManager
+api-version: 1.17
+authors: [ ms5984 ]
+description: ${project.description}
